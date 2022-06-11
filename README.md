@@ -5,13 +5,13 @@
 
 - 🔥 Interested : **FinTech and Entrepreneurship**
 
-- 📫 Contact : **[(+20)1157689977]() | emad.mohamedeng@gmail.com | [Website](https://emadmhmd.github.io/emadmhmd/) | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
+- 📫 Contact : **<a href="tel:1157689977" target="_blank">(+02)1157689977</a> | emad.mohamedeng@gmail.com | [Website](https://emadmhmd.github.io/emadmhmd/) | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
 
 ### 🤝🏻 &nbsp;Connect with Me<p align="left">
 
-<a href="https://linkedin.com/in/emadmhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emadmhmd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/emadmhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emadmhmd" height="30" width="40" /></a>
-<a href="https://fb.com/emaadmhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emaadmhmd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emadmhmd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emadmhmd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/emadmhmd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emadmhmd" height="30" width="40" /></a>
+<a href="https://fb.com/emaadmhmd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emaadmhmd" height="30" width="40" /></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
