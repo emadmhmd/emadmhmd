@@ -5,7 +5,7 @@
 
 - 🔥 Interested : **FinTech and Entrepreneurship**
 
-- 📫 Contact : **emad.mohamedeng@gmail.com | [(+20)1157689977]() | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
+- 📫 Contact : **emad.mohamedeng@gmail.com | [(+20)1157689977]() | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf) | [Website](https://emadmhmd.github.io/emadmhmd/)**
 
 ### 🤝🏻 &nbsp;Connect with Me<p align="left">
 
