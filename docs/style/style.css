@@ -60,8 +60,13 @@ body {
     font-size: 22px;
     margin-bottom: 5px;
 }
+.profile .title{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
 .profile .headline{
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 10px;
     margin-left: 10px;
 }
