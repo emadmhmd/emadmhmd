@@ -3,9 +3,9 @@
 
 - 🔭 Main Stack : **Typescript | React | Node | Go : Mainly focused on Backend**
 
-- 🔥 Interested : **FinTech and Entrepreneurship**
+- 🔥 Interested : To learn more about **Web3 and Entrepreneurship(Innovation)**
 
-- 📫 Contact : **<a href="tel:1157689977" target="_blank">(+02)1157689977</a> | emad.mohamedeng@gmail.com | [Website](https://emadmhmd.github.io/emadmhmd/) | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
+- 📫 Contact : **(+02)1157689977 | emad.mohamedeng@gmail.com | [Website](https://emadmhmd.github.io/emadmhmd/) | [Resume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
 
 ### 🤝🏻 &nbsp;Connect with Me<p align="left">
 
