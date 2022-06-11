@@ -1,2 +1,1 @@
-# me
-Simple Personal website
+# Simple Personal website
