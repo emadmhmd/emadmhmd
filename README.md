@@ -1,11 +1,11 @@
 <h1 align="center"> Emad MOHAMED (@emadmhmd) 👋</h1>
 <h3 align="center">Software Dvelopment Engineer @Corelia from Egypt</h3>
 
-- 🔭 Main Stack : **Typescript,React,Node,Go: Mainly focused on Backend**
+- 🔭 Main Stack : **Typescript | React | Node | Go : Mainly focused on Backend**
 
 - 🔥 Interested : **FinTech and Entrepreneurship**
 
-- 📫 Contact : **emad.mohamedenf@gmail.com | (+02)1157689977**
+- 📫 Contact : **emad.mohamedeng@gmail.com | (+20)1157689977 | [Rsume](https://emadmhmd.github.io/emadmhmd/resume/Emad_Mohamed_resume.pdf)**
 
 ### 🤝🏻 &nbsp;Connect with Me<p align="left">
 
