@@ -59,6 +59,7 @@ body {
 .profile .headline{
     font-size: 15px;
     margin-left: 10px;
+    margin-top: 5px;
 }
 .profile a{
     color: rgb(0, 93, 173);
