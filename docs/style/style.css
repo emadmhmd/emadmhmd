@@ -69,3 +69,37 @@ body {
     font-size: 15px;
     color: rgb(0, 93, 173);
 }
+
+
+@media (max-width : 600px){
+    
+    .container {
+        width: 90%;
+        margin: auto;
+    }
+    .header {
+        padding-top:100px;
+    }
+    .profile{
+        padding-top: 50px;
+        overflow: hidden;
+        color: white;
+        background: rgba(2, 6, 7,.70);
+        padding: 25px;
+    }
+    .profile .avatar{
+        width: 90%;
+        float: left;
+        margin-left: 5%;
+        height: 300px;
+        border-radius: 50%;
+    }
+    .profile .info{
+        width: 100%;
+        float: left;
+        margin-top: 80px;
+    }
+    .hidden {
+        display: none;
+    }
+}
