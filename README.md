@@ -32,7 +32,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<p align="center">
+<p align="left">
   <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emadmhmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emadmhmd&layout=compact&langs_count=8&theme=algolia"/>
