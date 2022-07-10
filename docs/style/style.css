@@ -74,7 +74,7 @@ body {
 @media (max-width : 600px){
     
     .container {
-        width: 90%;
+        width: 95%;
         margin: auto;
     }
     .header {

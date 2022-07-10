@@ -1,5 +1,5 @@
 <h1 align="center"> Emad MOHAMED (@emadmhmd) 👋</h1>
-<h3 align="center">Software Development Engineer @Corelia from Egypt</h3>
+<h3 align="center">Software Engineer @Corelia from Egypt</h3>
 
 - 🔭 Main Stack : **Typescript | React | Node | Go : Mainly focused on Backend**
 
