@@ -1,5 +1,5 @@
 <h1 align="center"> Emad MOHAMED (@emadmhmd) 👋</h1>
-<h3 align="center">Software Engineer @Corelia from Egypt</h3>
+<h3 align="center">Software Engineer @ <a href='https://www.corelia.ai/'>Corelia</a> from Egypt</h3>
 
 - 🔭 Main Stack : **Typescript | React | Node | Go : Mainly focused on Backend**
 
@@ -26,7 +26,7 @@
 
 <p align="left">
   <p>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emadmhmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emadmhmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emadmhmd&layout=compact&langs_count=8&theme=algolia"/>
   </p>
 </p>
