@@ -1,4 +1,4 @@
-<h1 align="center"> Emad MOHAMED (@EmadMhmd) 👋</h1>
+<h1 align="center"> Emad MOHAMED (@<a href="https://emadmhmd.github.io/emadmhmd/">emadmhmd</a>)👋</h1>
 <h3 align="center">Software Engineer @ <a href='https://www.corelia.ai/'>Corelia</a> from Egypt</h3>
 
 - 🔭 Main Stack : **Typescript | Node | Python | React | Go : Mainly focused on Backend**
